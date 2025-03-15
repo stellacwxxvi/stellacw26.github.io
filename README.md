@@ -1,22 +1,20 @@
 # **The Overlooked Statistic: Underdiagnosis Among Minorities**
-## **Analyzing ADHD Diagnoses by Socioeconomic Status**
 ### *Author: Stella Wright*
 
 ## 📌 **Project Overview**
-This project examines the prevalence of **ADHD diagnoses among children from different income levels** using data from the **2019-2023 National Health Interview Survey (NHIS)**. The goal is to understand whether children from lower-income families have **higher diagnosis rates** compared to those from higher-income families and explore factors influencing this trend.
+This project examines the prevalence of **ADHD diagnoses among children from different minorities** using data from the **2019-2023 National Health Interview Survey (NHIS)**. The goal is to fully understand the effect that variables such as race, gender, and sex have on diagnosis rates. 
 
-The findings challenge the common assumption that higher-income families have better access to healthcare and, therefore, higher diagnosis rates. Instead, results indicate that **children from lower-income backgrounds have higher reported ADHD diagnoses**, suggesting a complex interaction between accessibility, awareness, and community healthcare resources.
+The findings in this project aim to challenge the common assumption suggesting a complex interaction between accessibility, awareness, and community healthcare resources.
 
 ## 🎯 **Objectives**
-- **Analyze ADHD diagnosis rates** across different income groups (low, moderate, high).
+- **Analyze ADHD diagnosis rates** across different income groups (low, moderate, high), sex (male, female), race.
 - Identify **trends from 2019 to 2023** and explore possible influences (e.g., COVID-19 pandemic).
-- **Examine socioeconomic factors** that may contribute to differences in diagnosis rates.
 - Present insights through **data visualizations and statistical analysis**.
 
 ## 📂 **Project Structure**
 ### 📜 **Main Files**
 - `final_tutorial_wright.ipynb` → **Main Jupyter Notebook** containing data analysis, visualizations, and key findings.
-- `EVER_ADHD__ind__poverty__.json` → **Raw dataset** used for analysis.
+- **Raw dataset** used for analysis.
 - `README.md` → **This file** explaining the project.
 - `requirements.txt` → **List of dependencies** required to run the notebook.
 
@@ -28,5 +26,5 @@ The findings challenge the common assumption that higher-income families have be
 
 ## 📊 **Data Source**
 - **Dataset:** [CDC's National Health Interview Survey (NHIS) GitHub Repository](https://github.com/)
-- **Variables Used:** ADHD diagnosis prevalence by **income level** (low, moderate, high).
+- **Variables Used:** ADHD diagnosis prevalence by **income level** (low, moderate, high), **sex** (male, female), **race**.
 - **Years Covered:** 2019 - 2023.
